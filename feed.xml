@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <atom:link href="http://localhost:4000/redesign/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://localhost:4000/redesign/</link>
+    <description></description>
+    <pubDate>Fri, 12 Oct 2018 16:58:45 -0400</pubDate>
+    
+      <item>
+        <title>New UM Libraries Website Preview</title>
+        <link>http://localhost:4000/redesign/new-website-preview.html</link>
+        <guid isPermaLink="true">http://localhost:4000/redesign/new-website-preview.html</guid>
+        <description>&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;8u 12u$(medium)&quot;&gt;
+&lt;div&gt;
+      &lt;p&gt;The preview version of the new University of Miami Libraries website is now available at: &lt;a href=&quot;https://new.library.miami.edu/&quot;&gt;https://new.library.miami.edu/&lt;/a&gt;&lt;/p&gt;
+
+      &lt;p&gt;We invite you to view, explore, and &lt;a href=&quot;http://library.miami.edu/beta-feedback/&quot;&gt;let us know what you think&lt;/a&gt;. Please keep in mind that this site is still in development. Based on your feedback, we will perform additional user testing and polish everything up over the summer in time for a launch this fall.&lt;/p&gt;
+
+      &lt;h2 id=&quot;why-a-preview&quot;&gt;Why a Preview?&lt;/h2&gt;
+      &lt;p&gt;The purpose of the preview (or beta) launch is to give students and faculty a chance to experience the new site. The beta will allow us to test how the site performs in a realistic environment. You can look forward to more new content and features in the weeks ahead.&lt;/p&gt;
+
+      &lt;h2 id=&quot;acknowledgements&quot;&gt;Acknowledgements&lt;/h2&gt;
+      &lt;p&gt;Thanks to UML’s department of Web &amp;amp; Application Development for their hard work in design, coding, and server setup; the Website Redesign Advisory Team for steering the project; the User Experience Team for planning and running the user research; and library faculty and staff for developing and updating the content.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+    &lt;div class=&quot;4u 12u$(medium)&quot;&gt;
+&lt;div&gt;
+      &lt;div class=&quot;center&quot;&gt;
+    &lt;img src=&quot;/redesign/img/posts/redesign-blog-preview.jpg&quot; alt=&quot;Redesign Preview&quot; class=&quot;image-reg&quot; /&gt;
+    &lt;span class=&quot;img-caption&quot;&gt;Redesign Mobile Preview&lt;/span&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 24 Apr 2018 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>Lure Them In With Ice Cream&amp;#58;&lt;br /&gt;A Creative Way to Gather Feedback</title>
+        <link>http://localhost:4000/redesign/ice-cream-social-mockup-testing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/redesign/ice-cream-social-mockup-testing.html</guid>
+        <description>&lt;p&gt;Our website redesign project has moved solidly into the Design and Build phase this summer, and we’ve been stretching to find new ways to get on-going feedback. In this post, we’ll explain one low-tech method we used for soliciting feedback from library staff by incorporating everyone’s favorite summer treat: &lt;strong&gt;ice cream&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;why&quot;&gt;Why&lt;/h2&gt;
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;6u 12u$(medium)&quot;&gt;
+&lt;div&gt;
+      &lt;p&gt;As part of the website redesign process, our web designer Patricia Villanueva created a number of possible header and footer designs to use on the new website. These designs were based in large part on earlier user testing research that we had done (including the projects we’ve talked about on this blog). The WebRAT team reviewed the whole set of designs and narrowed the field down from 20 headers to a set of 6 possibilities, and from 15 to 5 footers.&lt;/p&gt;
+
+      &lt;p&gt;To get feedback on those designs, we decided to turn to the rest of the library staff. We know that we still have to do testing with external users (and are making plans to do so!), but library staff are important users of the website, too. Additionally, soliciting feedback from staff gave us a way to talk about the redesign with library staff and give them a chance to get involved.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&quot;6u$ 12u$(medium)&quot;&gt;
+		&lt;div&gt;
+			&lt;img src=&quot;/redesign/img/posts/mockupboards.jpg&quot; alt=&quot;Mockup Boards Setup&quot; class=&quot;image-reg&quot; /&gt;
+			&lt;span class=&quot;img-caption&quot;&gt;Mockup Boards Setup&lt;/span&gt;
+		&lt;/div&gt;
+&lt;div&gt;
+      &lt;p&gt;Around the time that we were planning this, the library was holding a summer ice cream social event for all library staff. We were given permission to set up a small feedback area in the space where the ice cream social was held. This let us not only reach a wide range of library staff, but do so in a casual, low-stakes environment.&lt;/p&gt;
+    &lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;how&quot;&gt;How&lt;/h2&gt;
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;6u 12u$(medium)&quot;&gt;		
+&lt;div&gt;
+      &lt;p&gt;Since the ice cream social was already planned and advertised, we didn’t have to worry about recruiting participants. To keep things simple, we used paper printouts of the proposed designs. We printed out copies of various mockups (6 headers and 5 footers) and taped them to whiteboards. To provide a realistic impression of what the headers and footers would look like as part of a website, we included some greyed-out content along with the header/footer mockup. After trying a few variations, we settled on some plain text that was blurred and considerably lightened in color, which kept the focus clearly on the headers and footers.&lt;/p&gt;
+
+      &lt;p&gt;After discussion of various methods of voting, we decided to give each person four stickers: two for headers, and two for footers. They could then use those stickers however they wanted - give both stickers to one header, or give one sticker each to two headers. We also provided index cards for people to write comments on specific designs, although few people took advantage of this option. However, since we had at least one member of the redesign team on hand for the entire activity, we were able to get informal verbal feedback and listen in on conversations about the designs as people participated.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&quot;6u$ 12u$(medium)&quot;&gt;		
+		&lt;div&gt;
+			&lt;img src=&quot;/redesign/img/posts/icecreamsocial-1.png&quot; alt=&quot;Example header&quot; class=&quot;image-reg&quot; /&gt;
+			&lt;span class=&quot;img-caption&quot;&gt;Example Header&lt;/span&gt;
+		&lt;/div&gt;
+		&lt;div&gt;
+			&lt;img src=&quot;/redesign/img/posts/icecreamsocial-3.jpg&quot; alt=&quot;Staff voting&quot; class=&quot;image-reg&quot; /&gt;
+			&lt;span class=&quot;img-caption&quot;&gt;Staff examining mockups&lt;/span&gt;
+		&lt;/div&gt;	
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;In introducing the activity, we tried to emphasize that we were primarily interested in feedback on the designs themselves, not on the colors or labels of categories. We also emphasized that this was only a preliminary test of mockup designs; the final designs may (and probably will) look very different.&lt;/p&gt;
+
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;6u 12u$(medium)&quot;&gt;
+&lt;div&gt;
+      &lt;p&gt;With nearly everyone at the ice cream social involved, we were able to gather a great deal of information on the preferences of library staff and faculty. The voting helped us continue to narrow the potential options, down to 3 designs each for headers and footers. That gives us a good number to continue exploring and doing more user testing with.  Since each proposed design included a variety of different elements, we may continue exploring some elements even from the designs that did not receive many votes. While preparing the designs, we had some predictions about which designs would be the most popular, and for the most part, those were born out by the voting. Though we had some of our predictions confirmed, the feedback helped verify that we are on track.&lt;/p&gt;
+
+      &lt;p&gt;The activity also achieved its secondary purpose in keeping staff informed about the redesign. Those who participated seemed to appreciate the chance to see the design work as it was going on, including the range of designs under consideration, and we were pleased that everyone seemed generally positive about the direction we are headed.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&quot;6u$ 12u$(medium)&quot;&gt;
+		&lt;div&gt;
+			&lt;img src=&quot;/redesign/img/posts/icecreamsocial-2.jpg&quot; alt=&quot;Mockups with sticker votes&quot; class=&quot;image-reg&quot; /&gt;
+			&lt;span class=&quot;img-caption&quot;&gt;Mockups with sticker votes&lt;/span&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s Next&lt;/h2&gt;
+&lt;p&gt;The UX Team is currently thinking about how to do a version of this activity with students and other library users. We want to provide a quick, simple way for students to indicate what designs they like, while also providing some more focused feedback.&lt;/p&gt;
+
+&lt;p&gt;While the stickers were effective and fun, making for an approachable testing activity, they didn’t provide much information about why one design was preferred over another. We also worried about bias towards visibly popular options - if one design already has more stickers, is someone more likely to vote for it? To help counter some of these problems, we are exploring other ways of framing the activity, such as setting up an A/B comparison activity on iPads set up in public areas of the library.&lt;/p&gt;
+
+&lt;p&gt;Keep an eye out for these testing activities and other ways to provide feedback on the new site!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Jul 2017 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>Mini Design Sprints</title>
+        <link>http://localhost:4000/redesign/design-sprints.html</link>
+        <guid isPermaLink="true">http://localhost:4000/redesign/design-sprints.html</guid>
+        <description>&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;8u 12u$(medium)&quot;&gt;
+&lt;div&gt;
+      &lt;p&gt;One of the activities we have done with our faculty, staff and students is what we call &lt;strong&gt;“mini design sprints&lt;/strong&gt;.” A design sprint is an activity that takes place over the course of a week, and involves a group of participants (see sidebar); we are calling these mini-design sprints because they can be completed in under an hour, and while they might be done in a group setting, they can also work one-on-one.&lt;/p&gt;
+
+      &lt;p&gt;Our first mini design sprints were with colleagues in the library. We set up meetings with different groups across the libraries, and invited anyone to attend; we generally had four to six people show up. After a brief introduction, they are given a piece of paper with four mobile phone templates on it (downloaded from &lt;a href=&quot;http://sneakpeekit.com/&quot; target=&quot;_blank&quot;&gt;Sneakpeekit&lt;/a&gt;) and asked to sketch a design in response to a question. For example:&lt;/p&gt;
+
+      &lt;blockquote&gt;
+        &lt;p&gt;Design your department page in mobile - show the most important content/functions for you or your patrons in the visible area of the screen. You can test out more than one idea.&lt;/p&gt;
+      &lt;/blockquote&gt;
+
+      &lt;p&gt;We project the question on the screen so people could easily refer to it. The participants are given six or eight minutes to complete their sketches. (We started with eight minutes then discovered that was a bit too long.)&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&quot;4u$ 12u$(medium)&quot;&gt;
+		&lt;div class=&quot;feature mini-list&quot;&gt;
+&lt;div&gt;
+        &lt;p&gt;&lt;strong&gt;Design Sprints… In 100 Words&lt;/strong&gt;&lt;/p&gt;
+
+        &lt;p&gt;On Day 1, the group (designers and non-designers) gets together to go over a scenario or problem needing a solution. They discuss the who, what and why. On Day 2, the group sketches possible solutions to the problem. The process may take anywhere between 5-20 minutes. On Day 3, the group reviews the sketches and votes on the solution to implement. On Day 4, the design team produces a low-fi working prototype or proof of concept to illustrate the solution. Finally on Day 5, the prototype is tested with actual users and feedback is collected.&lt;/p&gt;
+
+        &lt;div class=&quot;simple-author&quot;&gt;
+    &lt;img src=&quot;/redesign/img/staff/patty.png&quot; alt=&quot;UM Staff&quot; /&gt;
+    &lt;p&gt;&lt;span class=&quot;accent1&quot;&gt;Patricia Villanueva&lt;/span&gt;&lt;br /&gt;Web Designer&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Once the sketches are completed, one of the facilitators goes around the room and takes a picture of each template sheet with their phone and uploads it to Box (the campus’s shared document storage system). We then navigate to that Box folder on the projected screen, and all look at each template in turn. The creator quickly describes what they have done and others may ask questions or give feedback. Uploading to Box is also useful if you have people teleconferencing in - they can share their sketches and view the other sketches easily.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;	
+	&lt;div class=&quot;3u 12u$(medium)&quot;&gt;
+		&lt;div class=&quot;center&quot;&gt;
+			&lt;img src=&quot;/redesign/img/posts/design-sample1.jpg&quot; alt=&quot;Design Sprint Example&quot; class=&quot;image-simple&quot; /&gt;
+			&lt;span class=&quot;img-caption&quot;&gt;Department Design Sprint Example&lt;/span&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;3u 12u$(medium)&quot;&gt;
+		&lt;div class=&quot;center&quot;&gt;
+			&lt;img src=&quot;/redesign/img/posts/design-sample2.jpg&quot; alt=&quot;Design Sprint Example&quot; class=&quot;image-simple&quot; /&gt;
+			&lt;span class=&quot;img-caption&quot;&gt;Student Design Sprint Example&lt;/span&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;6u$ 12u$(medium)&quot;&gt;
+		&lt;div&gt;
+      &lt;p&gt;Keen readers of this blog will know that we produced a &lt;a href=&quot;https://miami.box.com/s/tvz970mgqe8hfd1f3orsphoezxmuxyze&quot; target=&quot;_blank&quot;&gt;Master Discovery Report&lt;/a&gt; with findings from our earlier discovery activities, and a series of recommendations based on this research.&lt;/p&gt;
+
+      &lt;p&gt;After the participants have put down their pencils, and discussed their sketches, we put up a new note on the screen:&lt;/p&gt;
+
+      &lt;blockquote&gt;
+        &lt;p&gt;Would the following recommendations from our UX research make you modify your design?&lt;/p&gt;
+      &lt;/blockquote&gt;
+
+      &lt;p&gt;We then bring up, slide by slide, a series of recommendations that we thought might inspire conversation. Each recommendation is followed, in parentheses, by its source. For example, again from our internal departmental sessions:&lt;/p&gt;
+
+      &lt;blockquote&gt;
+        &lt;p&gt;Associate people with services on second level or departmental pages (Staff Focus Groups).&lt;/p&gt;
+      &lt;/blockquote&gt;
+
+      &lt;blockquote&gt;
+        &lt;p&gt;Provide easy ways for students to communicate with library staff on the website (User Testing: One on One).&lt;/p&gt;
+      &lt;/blockquote&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The answers to these questions can be quite different from department to department, depending on how regularly they interact with the public. That is, a cataloger in our Metadata &amp;amp; Discovery Services department might have relatively minimal interactions with the public, while a member of Learning and Research Services, would have regular contact. In each case, it’s worth discussing what is the best way of providing service to the public via the web.&lt;/p&gt;
+
+&lt;p&gt;Another recommendation we put up, again during the departmental design sprint:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Make sure popular tasks and resources are easily available from the homepage (User Testing: One on One).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This recommendation was from looking at the overall Libraries’ website home page, but we were curious how it might translate to each department’s splash page.  It also led to discussion about what exactly are your department’s most popular tasks (from a web perspective) and then, how do you know that they are popular?&lt;/p&gt;
+
+&lt;p&gt;Overall, we found that mini design sprints structured in this way worked quite well. Even if people were not accomplished artists, the subsequent discussion questions gave them a chance to participate and think a bit more about what they wanted the new website to accomplish. We chose to use a mobile view because it forces users to focus on the most important tasks. We also discovered with a trial run-through of a desktop template that there was just too much room to fill. In mobile, the participants always had the option of adding additional content below the fold–i.e., in one of the other three squares provided on the print out.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;	
+	&lt;div class=&quot;6u 12u$(medium)&quot;&gt;
+		&lt;div&gt;
+      &lt;p&gt;For our student and faculty sprints, we did things slightly differently because of scheduling issues. It’s challenging enough scheduling people who work together, but finding a time and a room for a diverse group of students or faculty is next to impossible, so we chose instead to do them one-on-one. With faculty, we asked librarians to reach out to their faculty to find willing participants; for students, we set up our usual guerilla testing table, complete with free coffee, and acquired participants that way.&lt;/p&gt;
+
+      &lt;p&gt;With the first round of design sprints done, we now have more ideas to help with prototyping, we have raised awareness of the redesign, and we have given more people an opportunity to participate in the process. Those are the three things we hoped to achieve with these mini design sprints, and we feel that this process was successful in achieving them. We found referring back to recommendations from our report was an excellent way of generating discussion. In terms of things that might be improved, it would be nice to find a better way to get broader faculty participation - but this is true of all our of UX activities.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;	
+	&lt;div class=&quot;6u$ 12u$(medium)&quot;&gt;
+		&lt;div class=&quot;feature mini-list&quot;&gt;
+&lt;div&gt;
+        &lt;p&gt;&lt;strong&gt;Using our UX Research&lt;/strong&gt;&lt;/p&gt;
+
+        &lt;p&gt;We have spent a good deal of time on our UX and research activities, so we want to be sure we make good use of them. As such, we are trying to refer back to the recommendations from the Master Discovery Report whenever possible. In the case of these mini design sprints, it was to focus the conversation. As we build out prototypes, we want to refer back to research for why we have made certain decisions. And then as we unveil the new site, we hope to have a key that can explain certain aspects of the new design. There is always going to be a significant component of our new site that relies on industry best practices or the years of experience of the Web &amp;amp; Application Development team, or that is just trying something new; but we want to ground as many decisions as possible in UX research.&lt;/p&gt;
+      &lt;/div&gt;
+		&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 25 Apr 2017 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>Migrating from WordPress (partially) to Cascade</title>
+        <link>http://localhost:4000/redesign/migrating-news-events-campus-cms.html</link>
+        <guid isPermaLink="true">http://localhost:4000/redesign/migrating-news-events-campus-cms.html</guid>
+        <description>&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;7u 12u$(medium)&quot;&gt;
+&lt;div&gt;
+      &lt;p&gt;When you look at the UM Libraries (UML) &lt;a href=&quot;http://library.miami.edu/&quot; target=&quot;_blank&quot;&gt;homepage&lt;/a&gt;, you may not realize all the components at work behind the scenes. At first glance, you probably notice a nice, big search box that is used to find library materials, a header filled with buttons that help you navigate to other pages, the scrolling thumbnail images and headlines near the footer, to name few. What you don’t see are the several instances of &lt;a href=&quot;https://ithemes.com/tutorials/what-is-wordpress/&quot; target=&quot;_blank&quot;&gt;WordPress&lt;/a&gt;, a tool to create blog posts and pages, that power the UML site.&lt;/p&gt;
+
+      &lt;p&gt;One use of WordPress is to promote our UML news, including events, exhibitions, programs, and resources. As we embark on this redesign, we want to think about how we can share that news with our community more effectively. Since 2011, we have been sharing our news using the blogging capabilities offered by WordPress. While our WordPress site has successfully handled the integration of various systems that are vital to our end-users’ experience (e.g., the library catalog and subject guides), we’ve decided to align with University Communications and migrate our news stories from WordPress to their chosen platform for news-related online publications, which will be highly advantageous for us in reaching our audience.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&quot;5u$ 12u$(medium)&quot;&gt;
+		&lt;div&gt;
+			&lt;img src=&quot;/redesign/img/posts/news-events-full.jpg&quot; alt=&quot;Kristie Curier interviews Linda Eads&quot; class=&quot;image-reg&quot; /&gt;
+			&lt;span class=&quot;img-caption&quot;&gt;&lt;strong&gt;Sample news on Cascade Server:&lt;/strong&gt; Kristie Curier, executive producer of UMTV’s NewsVision, interviews Linda Eads, a UM alumna and one of the artists whose textile quilt is featured in the exhibit &lt;em&gt;Piecing Together A Changing Planet&lt;/em&gt;, on display at Richter Library through April 7. &lt;a href=&quot;http://news.miami.edu/stories/2017/03/science-and-art-weave-a-story-on-climate-change.html&quot; target=&quot;_blank&quot;&gt;Learn more.&lt;/a&gt; Photo by Andrew Innerarity.&lt;/span&gt;
+		&lt;/div&gt;		
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;UM Communications uses Cascade, another content management system, to run the University website and also as their news publishing platform. Since the launch of the University &lt;a href=&quot;http://news.miami.edu/&quot; target=&quot;_blank&quot;&gt;news site&lt;/a&gt;, two news subsites that showcase the &lt;a href=&quot;http://news.miami.edu/soa-now/&quot; target=&quot;_blank&quot;&gt;School of Architecture&lt;a&gt;&lt;/a&gt;, and the &lt;a href=&quot;http://news.miami.edu/sonhs/index.html&quot; target=&quot;_blank&quot;&gt;School of Nursing and Health Studies&lt;/a&gt; have gone live, with more in development.&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;6u 12u$(medium)&quot;&gt;
+		&lt;div&gt;
+			&lt;a href=&quot;http://news.miami.edu/soa-now/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/redesign/img/posts/soa-news-subsite.jpg&quot; alt=&quot;School of Architecture News Subsite&quot; class=&quot;image-reg&quot; /&gt;&lt;/a&gt;
+			&lt;span class=&quot;img-caption&quot;&gt;School of Architecture News Subsite&lt;/span&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;6u$ 12u$(medium)&quot;&gt;
+		&lt;div&gt;
+			&lt;a href=&quot;http://news.miami.edu/sonhs/index.html&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/redesign/img/posts/snhs-news-subsite.jpg&quot; alt=&quot;School of Nursing and Health Studies News Subsite&quot; class=&quot;image-reg&quot; /&gt;&lt;/a&gt;
+			&lt;span class=&quot;img-caption&quot;&gt;School of Nursing and Health Studies News Subsite&lt;/span&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;By migrating to Cascade, UML news will appear on a subsite that will exclusively feature UML content and will be in dialogue with the University news site. Other advantages to creating a UML news site on Cascade include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Increased visibility of UML news items, across campus and the community-at-large&lt;/li&gt;
+  &lt;li&gt;Greater possibility/likelihood of UML news items being “picked up” or featured on the University’s news site&lt;/li&gt;
+  &lt;li&gt;Ability (via RSS) to identify pertinent news items from Cascade new sites and feature them on the forthcoming redesigned UML website&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h3&gt;
+&lt;p&gt;This migration project is part of the redesign process for the UML website. It will be managed primarily by members of the Web &amp;amp; Application Development and Library Communications teams, who will soon have the opportunity to receive training on how to use Cascade. We can start populating our news subsite with UML stories, aiming to go live on Cascade sometime this summer. We hope to develop a new workflow internally for creating, editing, and publishing content. Additionally, we hope to align our news content, structure, and stories with University goals and best practices.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Mar 2017 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>Numbers Don't Lie - Analyzing Google Analytics</title>
+        <link>http://localhost:4000/redesign/google-anayltics.html</link>
+        <guid isPermaLink="true">http://localhost:4000/redesign/google-anayltics.html</guid>
+        <description>&lt;p&gt;One of our initial activities at the beginning of the discovery phase of our website redesign was to analyze the numbers behind our visitors and observe their activity on the website. We reviewed Google Analytics for Fiscal Year 2016 (June 1, 2015 to May 31, 2016) to get a recent snapshot, as well as &lt;a href=&quot;https://en.wikipedia.org/wiki/Google_Search_Console&quot; target=&quot;_blank&quot;&gt;Google Search Console&lt;a&gt;&lt;/a&gt;[1] which allowed us to see top search terms.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Not only did we look at typical metrics such as number of visitors and sessions[2] but we closely examined all available data included in these areas:&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;8u 12u$(medium)&quot;&gt;
+&lt;div&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Audience:&lt;/strong&gt; 95% of sessions came from the United States with most traffic (65%) originating locally from the miami.edu domain. This means most traffic is coming from on campus. Our users are primarily English-speaking. Only 1% of users have their computers/devices set to Spanish.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Access:&lt;/strong&gt; Most traffic to the site was direct (63%), meaning our users were directly typing our URL in the browser. Our second source of traffic was through organic searches[3] in Google, Bing and Yahoo using a combination of these words: um, library, miami, university of miami, and richter. Referrals[8] accounted for 16% of traffic, mainly coming from the library website itself, the campus website, the old catalog, Summon and SubjectsPlus.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Top Content:&lt;/strong&gt; In addition to main home page, our top pages included home pages for other branch libraries/collections, hours, books, articles and the databases page. Our top 2 databases were PsycINFO and JSTOR.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Engagement:&lt;/strong&gt; More than a third of visits to our website were to a single page. This could mean either users got what they wanted right away, or they had the library home page set as the default on their browsers (as in the commons area or other public machines).  75% of sessions lasted between 0 and 10 seconds. Users who visited at least 2 pages per session spent an average of 3 min 55 sec on these pages.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Technology:&lt;/strong&gt; Desktops still dominated all devices used in sessions; however, there was a 15% increase in mobile sessions compared to Fiscal Year 2015. There were approximately 4K new mobile users while the use of tablets went down by 27%. The majority of sessions came from Chrome browsers on Windows machines. The use of Firefox dropped by 6% while Safari use was consistent.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Page Speed:&lt;/strong&gt; Our top pages had an average page load time of 3.96 sec. Using additional tools (WebPagetest.org and Google’s PageSpeed Insight) we were able to compare our performance against those of our 10 peer institutions. We ranked 4th for mobile speed, 2nd for mobile user experience and 8th for desktop speed.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Custom Events:&lt;/strong&gt; Custom event monitoring helped us identify the most accessed areas in the header (links back to the homepage and hours). The most accessed navigational items were books, patron info, research guides and booking study rooms. The top “Quick Links” clicks were for WorldCat, booking study rooms, and the PsycINFO database.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Social Referrals:&lt;/strong&gt; Top social referrals came from Facebook (61% of sessions) and Twitter (12% of sessions). Pages with most social traffic from Facebook were the main website, Cuban Heritage Collection (CHC) and Special Collections. Pages with most social traffic from Twitter were the music website and CHC.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&quot;4u$ 12u$(medium)&quot;&gt;
+		&lt;div class=&quot;feature mini-list&quot;&gt;
+&lt;div&gt;
+        &lt;p&gt;&lt;strong&gt;Glossary Terms&lt;/strong&gt;&lt;/p&gt;
+        &lt;ol&gt;
+          &lt;li&gt;&lt;strong&gt;Google Search Console:&lt;/strong&gt; (formerly known as Webmaster Tools) a comprehensive set of tools for in-depth monitoring of various aspects of website’s appearance  and performance&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Sessions:&lt;/strong&gt; group of interactions that take place on your website within a given time frame&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Organic search:&lt;/strong&gt; a search originating in a search engine like Google, Bing, etc.&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Responsive web design:&lt;/strong&gt; approach that suggests that design and development of a website should respond to the user’s behavior and environment based on screen size, platform and orientation&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Viewport:&lt;/strong&gt; the visible area displayed on a screen or mobile device&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Cached:&lt;/strong&gt; temporary storage of HTML pages and images to reduce bandwidth use&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Bounce rate:&lt;/strong&gt; the percentage of visitors to your website who navigate away after viewing only one page. The lower the bounce rate the better.&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Referral:&lt;/strong&gt; Traffic to your site that come from direct links on other websites rather than directly or from search engines&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The insights we obtained from our Google Analytics data helped us draft technical recommendations and  suggestions for the interface design as it pertains to our content.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;6u 12u$(medium)&quot;&gt;
+&lt;div&gt;
+      &lt;h3 id=&quot;technical&quot;&gt;Technical&lt;/h3&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Deliver a responsive web[4] experience that meets our increasing number of mobile users&lt;/li&gt;
+        &lt;li&gt;Have 2 main viewports[5]: 768px and under for mobile, 1024px and up for desktop&lt;/li&gt;
+        &lt;li&gt;Support browsers at least 2-years old at the time of website redesign&lt;/li&gt;
+        &lt;li&gt;Optimize website speed and performance by minimizing file sizes&lt;/li&gt;
+        &lt;li&gt;Serve a cached[6] version of the website when possible to allow for speedy loading times&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&quot;6u$ 12u$(medium)&quot;&gt;
+&lt;div&gt;
+      &lt;h3 id=&quot;content&quot;&gt;Content&lt;/h3&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Include easy access to key pages from the home page and main navigation menu&lt;/li&gt;
+        &lt;li&gt;Include easy access to top databases from the home page or databases page&lt;/li&gt;
+        &lt;li&gt;Offer more engaging interactions with content so there is more activity in a page – to lower bounce rates[7] and increase time spent on a page&lt;/li&gt;
+        &lt;li&gt;If we want to promote our social channels perhaps add visibility to these elements; the same applies to our news&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;In our ongoing efforts to maintain best practices we will continue to monitor our referrals and organic visits, as well as continue to run page speed testing tools to monitor and improve performance. We will share key metrics with departments across the library by setting up Google Analytics dashboards/custom reports for each branch/collection website, and weekly/monthly auto sending emails/reports to appropriate people in branches/collections/departments.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-file-text-o&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Curious about our numbers? See the complete &lt;a href=&quot;https://miami.box.com/s/x9bv2juaghhgt5lseify8uo7zmvbqs54&quot; target=&quot;_blank&quot;&gt;Google Analytics Discovery Report&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Feb 2017 00:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>User Testing - Card Sorting &amp; One-on-One Tests</title>
+        <link>http://localhost:4000/redesign/user-testing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/redesign/user-testing.html</guid>
+        <description>&lt;p&gt;As part of the discovery phase of the website redesign process, we of course wanted to get insights from the primary users of the library’s website: students. The libraries’ User Experience (UX) Team conducted two types of user experience research, with more to come as we move into the design and prototyping phases. Through these tests, we improved our understanding of how students use the library website, what they are looking for on the site, and how we can make it as easy as possible for them to access library resources and services.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;6u 12u$(medium)&quot;&gt;
+&lt;div&gt;
+      &lt;h2 id=&quot;card-sorting&quot;&gt;Card sorting&lt;/h2&gt;
+    &lt;/div&gt;
+		&lt;div class=&quot;image-center&quot;&gt;
+			&lt;img src=&quot;/redesign/img/posts/cardsorting4.png&quot; alt=&quot;card sorting exercise&quot; class=&quot;image&quot; /&gt;
+		&lt;/div&gt;
+&lt;div&gt;
+      &lt;p&gt;To test how information on the website should be organized, we conducted a type of usability testing called &lt;a href=&quot;https://www.usability.gov/how-to-and-tools/methods/card-sorting.html&quot; target=&quot;_blank&quot;&gt;card sorting&lt;/a&gt;. In this test, users are given cards indicating pages of the website and asked to organize them in a way that makes sense to them. We used a combination open and closed card sort, providing the ‘Services’ and ‘Research’ categories, but asking students to create their own additional categories for terms that didn’t fit.  A total of 94 terms, all gathered from the drop-down menus on the library.miami.edu website, were included for sorting.  Six card sorts were completed by 5 undergraduates and 1 graduate student.&lt;/p&gt;
+
+      &lt;p&gt;Both the ‘Research’ and ‘Services’ categories seemed to make sense to students, with ‘Research’ being the most understandable. The ‘Services’ category had more variation than ‘Research’, but students recognized core services fairly easily. Interestingly, students seem to look for research support under the ‘Services’ menu, not the ‘Research’ menu.&lt;/p&gt;
+
+      &lt;p&gt;Most students created a category that would describe information about the library, using terms such as ‘Library Information’, ‘Library Info’, or ‘About the Library.’ This was not a category provided to the students, but it matches closely with the website’s current ‘About’ category, indicating that that category is worth keeping, in some form.&lt;/p&gt;
+
+      &lt;p&gt;Some students categorized a few terms in either a ‘remove’ or ‘not sure what this is’ category.  It may be worth looking into these unfamiliar services to consider new vocabulary.  Additionally, one student created a category of terms that ‘should be included on the main page or have a direct link.’  These nontraditional categories may point to areas where other forms of usability testing may be used to provide more context and understanding.&lt;/p&gt;
+
+      &lt;p&gt;We also noticed that students tended to become overwhelmed by the number of terms needing to be categorized. Including all 94 terms could slightly overwhelm our users!  In the future, we may want to break down the card sort into smaller areas for the sake of time and ease of testing.&lt;/p&gt;
+
+      &lt;p&gt;&lt;i class=&quot;fa fa-file-text-o&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; To learn more about the results of our card sorting, please see the &lt;a href=&quot;https://miami.box.com/s/zx5u3t7y4e2u1bu1xpke476znqcxbtoa&quot; target=&quot;_blank&quot;&gt;Card Sorting Discovery Report&lt;/a&gt;.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&quot;6u$ 12u$(medium)&quot;&gt;
+&lt;div&gt;
+      &lt;h2 id=&quot;one-on-one-testing&quot;&gt;One-on-one testing&lt;/h2&gt;
+    &lt;/div&gt;
+		&lt;div class=&quot;image-center&quot;&gt;
+			&lt;img src=&quot;/redesign/img/posts/one-on-one-testing.png&quot; alt=&quot;one-on-one testing&quot; class=&quot;image&quot; /&gt;
+		&lt;/div&gt;
+&lt;div&gt;
+      &lt;p&gt;We also wanted to actually watch students use the current library website to find out what they liked, what worked, and what didn’t. Following the &lt;a href=&quot;https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/&quot; target=&quot;_blank&quot;&gt;one-on-one user testing method made famous by the Nielsen Norman Group&lt;/a&gt;, we designed a set of 12 tasks using the current website, which we asked students to complete while telling us what they were thinking and doing (“think-aloud” testing).&lt;/p&gt;
+
+      &lt;p&gt;To recruit a diverse group of students, we set up a table in the Richter library lobby on two days in December 2016, once during the middle of the day and once in the early evening. Two library staff ran each test: one person guiding the test participant through the tasks, and the other observing and taking notes. Coffee was offered as an incentive to participate (it was close to finals, after all!). Altogether, we had 22 students participate, each of whom completed three of our test scenarios. Each test took between 5 and 10 minutes.&lt;/p&gt;
+
+      &lt;p&gt;The tasks and questions we asked focused on how students use the library website to access resource, find out about library services, and use the library to meet their needs. Some of what we discovered was not a surprise: students don’t always understand library jargon, and often aren’t aware of the complete range of services offered by the library. Other things we discovered were more unexpected: students like being able to ask for help, often saying that they would just go ask the front desk rather than use the website for some tasks.&lt;/p&gt;
+
+      &lt;p&gt;Some of the &lt;strong&gt;key recommendations&lt;/strong&gt; that emerged from these tests were:&lt;/p&gt;
+
+      &lt;ul&gt;
+        &lt;li&gt;Students’ use of the library website is primarily task-oriented, and they like the library homepage to be a center for their most commonly needed tasks.&lt;/li&gt;
+        &lt;li&gt;Students want information and services to be available to them at the time they need it, so the website should optimize connections between services and connect to other systems students use (e.g. Blackboard).&lt;/li&gt;
+        &lt;li&gt;Promote library services and expertise (i.e. people) on the homepage, because students are often unaware of what the library can offer them and do not explore the website beyond their immediate needs.&lt;/li&gt;
+        &lt;li&gt;Provide easy ways for students to communicate with library staff on the website.&lt;/li&gt;
+      &lt;/ul&gt;
+
+      &lt;p&gt;&lt;i class=&quot;fa fa-file-text-o&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; For complete test questions and results, check out the &lt;a href=&quot;https://miami.box.com/s/19ekb1x6az9lcbhyy6sjydsf70eo8kfy&quot; target=&quot;_blank&quot;&gt;One-on-One User Testing Discovery Report.&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 20 Feb 2017 00:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Welcome</title>
+        <link>http://localhost:4000/redesign/welcome.html</link>
+        <guid isPermaLink="true">http://localhost:4000/redesign/welcome.html</guid>
+        <description>&lt;p&gt;Hello and welcome to our new University of Miami Libraries Website Redesign Blog. As the name suggests, the Libraries are working on a redesign of our web presence, and we thought it would be useful to write up some of our experiences. Useful how? Well, we see it serving a few overlapping purposes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Raise awareness.&lt;/strong&gt; Website redesigns can be off-putting for regular visitors.  Things that were in one place, are now in another place.  The user’s desire for stability is in conflict with the designer’s desire for improvement (which in turn can be driven by “under the hood” technological developments in the field of web design).  So, even if you stopped reading at the name of the blog, at least you know that change is coming.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Engage users.&lt;/strong&gt;  Even if you don’t like change, there are probably things about our web presence that you think should be changed.  We hope that some of you might be interested in the details we provide about our process and findings, and further hope that you will be willing to participate in our user testing and experiments.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Keep you in the loop.&lt;/strong&gt;  We are asking people to help us do various UX (user experience) activities, and we want to report back to you what we learned, and how this knowledge will be used as we develop the site.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Historical Record!&lt;/strong&gt;  Libraries and librarians love to capture information, in case it might be useful later.We hope that this blog will capture the process so that a few years down the road we can see what we did, what worked and what didn’t work, and let that inform the (sorry) next website redesign.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;6u 12u$(medium)&quot;&gt;
+&lt;div&gt;
+      &lt;h2 id=&quot;what&quot;&gt;What&lt;/h2&gt;
+      &lt;p&gt;So, what are we doing, why are we doing it, and who is doing it?  Currently, our web presence is distributed across a number of software platforms and services, and uses a mix of open source (WordPress, SubjectsPlus, custom) and proprietary (uSearch, CONTENTdm, ILLiad) applications.  Some of these applications reside on UM servers; some are hosted in the cloud by vendors.  The focus of our first development work will be on the two locally-installed content management systems (WordPress, SubjectsPlus) which make up the majority of what might be called our “website.”  We will begin with the main website, the subject guides, and the sites for the distinctive collections (Cuban Heritage Collection, Special Collections, University Archives) and then move on to the branch websites.  We will not be looking at the uSearch discovery system (aka the Library Catalog) at this time.&lt;/p&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&quot;6u$ 12u$(medium)&quot;&gt;
+&lt;div&gt;
+      &lt;h2 id=&quot;why&quot;&gt;Why&lt;/h2&gt;
+      &lt;p&gt;There are a number of reasons why we are doing this now.  Superficially, the current website is almost five years old, which is thirty five years in human time–imagine your poor child wearing the same clothes for thirty five years.  But beyond the clothes, we have outgrown some of our current underlying systems, and want to upgrade and simplify the underlying web architecture.  We also have new systems in place (uSearch) and in the works (a replacement for CONTENTdm, our digital repository software) that we want to integrate with.  There have also been a number of organizational changes since the current website was developed–we have a new dean, three new associate deans, a new Digital Strategies unit, an enlarged and invigorated Communications team, and a new Learning Commons.  The existing web presence does not adequately represent this changed environment and focus.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;6u 12u$(medium)&quot;&gt;
+&lt;div&gt;
+      &lt;h2 id=&quot;who&quot;&gt;Who&lt;/h2&gt;
+      &lt;p&gt;While the actual design and development will be undertaken by the Web &amp;amp; Application Development (WAD) department, we have assembled a project team with representation across the Libraries.  The Website Redesign Advisory (WebRAT) team will advise and help shape the redesign, as well as reaching out to the rest of the UML community and making sure everyone is listened to, informed and on board.  The User Experience (UX) team is helping with surveying and testing our current users and site, as well as prototypes as we develop them.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+	&lt;div class=&quot;6u$ 12u$(medium)&quot;&gt;
+&lt;div&gt;
+      &lt;h2 id=&quot;when&quot;&gt;When&lt;/h2&gt;
+      &lt;p&gt;The Discovery phase of the project was completed in the fall 2016 semester. The Plan &amp;amp; Design phase began in the fall and continues through the spring of 2017.  The Build Out phase will begin in late spring, and be completed in summer 2017. The first stage of the redesigned site should be ready to launch in advance of the fall 2017 semester.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Thanks for your time!  We plan to post on a new topic every Monday for the foreseeable future.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Feb 2017 00:00:00 -0500</pubDate>
+      </item>
+    
+  </channel>
+</rss>
