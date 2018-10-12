@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <atom:link href="http://localhost:4000/redesign/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>http://localhost:4000/redesign/</link>
+    <atom:link href="https://www.library.miami.edu/redesign/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://www.library.miami.edu/redesign/</link>
     <description></description>
-    <pubDate>Fri, 12 Oct 2018 16:58:45 -0400</pubDate>
+    <pubDate>Fri, 12 Oct 2018 17:16:40 -0400</pubDate>
     
       <item>
         <title>New UM Libraries Website Preview</title>
-        <link>http://localhost:4000/redesign/new-website-preview.html</link>
-        <guid isPermaLink="true">http://localhost:4000/redesign/new-website-preview.html</guid>
+        <link>https://www.library.miami.edu/redesign/new-website-preview.html</link>
+        <guid isPermaLink="true">https://www.library.miami.edu/redesign/new-website-preview.html</guid>
         <description>&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;8u 12u$(medium)&quot;&gt;
 &lt;div&gt;
@@ -40,8 +40,8 @@
     
       <item>
         <title>Lure Them In With Ice Cream&amp;#58;&lt;br /&gt;A Creative Way to Gather Feedback</title>
-        <link>http://localhost:4000/redesign/ice-cream-social-mockup-testing.html</link>
-        <guid isPermaLink="true">http://localhost:4000/redesign/ice-cream-social-mockup-testing.html</guid>
+        <link>https://www.library.miami.edu/redesign/ice-cream-social-mockup-testing.html</link>
+        <guid isPermaLink="true">https://www.library.miami.edu/redesign/ice-cream-social-mockup-testing.html</guid>
         <description>&lt;p&gt;Our website redesign project has moved solidly into the Design and Build phase this summer, and we’ve been stretching to find new ways to get on-going feedback. In this post, we’ll explain one low-tech method we used for soliciting feedback from library staff by incorporating everyone’s favorite summer treat: &lt;strong&gt;ice cream&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;why&quot;&gt;Why&lt;/h2&gt;
@@ -115,8 +115,8 @@
     
       <item>
         <title>Mini Design Sprints</title>
-        <link>http://localhost:4000/redesign/design-sprints.html</link>
-        <guid isPermaLink="true">http://localhost:4000/redesign/design-sprints.html</guid>
+        <link>https://www.library.miami.edu/redesign/design-sprints.html</link>
+        <guid isPermaLink="true">https://www.library.miami.edu/redesign/design-sprints.html</guid>
         <description>&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;8u 12u$(medium)&quot;&gt;
 &lt;div&gt;
@@ -222,8 +222,8 @@
     
       <item>
         <title>Migrating from WordPress (partially) to Cascade</title>
-        <link>http://localhost:4000/redesign/migrating-news-events-campus-cms.html</link>
-        <guid isPermaLink="true">http://localhost:4000/redesign/migrating-news-events-campus-cms.html</guid>
+        <link>https://www.library.miami.edu/redesign/migrating-news-events-campus-cms.html</link>
+        <guid isPermaLink="true">https://www.library.miami.edu/redesign/migrating-news-events-campus-cms.html</guid>
         <description>&lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;7u 12u$(medium)&quot;&gt;
 &lt;div&gt;
@@ -273,8 +273,8 @@
     
       <item>
         <title>Numbers Don't Lie - Analyzing Google Analytics</title>
-        <link>http://localhost:4000/redesign/google-anayltics.html</link>
-        <guid isPermaLink="true">http://localhost:4000/redesign/google-anayltics.html</guid>
+        <link>https://www.library.miami.edu/redesign/google-anayltics.html</link>
+        <guid isPermaLink="true">https://www.library.miami.edu/redesign/google-anayltics.html</guid>
         <description>&lt;p&gt;One of our initial activities at the beginning of the discovery phase of our website redesign was to analyze the numbers behind our visitors and observe their activity on the website. We reviewed Google Analytics for Fiscal Year 2016 (June 1, 2015 to May 31, 2016) to get a recent snapshot, as well as &lt;a href=&quot;https://en.wikipedia.org/wiki/Google_Search_Console&quot; target=&quot;_blank&quot;&gt;Google Search Console&lt;a&gt;&lt;/a&gt;[1] which allowed us to see top search terms.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Not only did we look at typical metrics such as number of visitors and sessions[2] but we closely examined all available data included in these areas:&lt;/p&gt;
@@ -349,8 +349,8 @@
     
       <item>
         <title>User Testing - Card Sorting &amp; One-on-One Tests</title>
-        <link>http://localhost:4000/redesign/user-testing.html</link>
-        <guid isPermaLink="true">http://localhost:4000/redesign/user-testing.html</guid>
+        <link>https://www.library.miami.edu/redesign/user-testing.html</link>
+        <guid isPermaLink="true">https://www.library.miami.edu/redesign/user-testing.html</guid>
         <description>&lt;p&gt;As part of the discovery phase of the website redesign process, we of course wanted to get insights from the primary users of the library’s website: students. The libraries’ User Experience (UX) Team conducted two types of user experience research, with more to come as we move into the design and prototyping phases. Through these tests, we improved our understanding of how students use the library website, what they are looking for on the site, and how we can make it as easy as possible for them to access library resources and services.&lt;/p&gt;
 &lt;div class=&quot;row&quot;&gt;
 	&lt;div class=&quot;6u 12u$(medium)&quot;&gt;
@@ -407,8 +407,8 @@
     
       <item>
         <title>Welcome</title>
-        <link>http://localhost:4000/redesign/welcome.html</link>
-        <guid isPermaLink="true">http://localhost:4000/redesign/welcome.html</guid>
+        <link>https://www.library.miami.edu/redesign/welcome.html</link>
+        <guid isPermaLink="true">https://www.library.miami.edu/redesign/welcome.html</guid>
         <description>&lt;p&gt;Hello and welcome to our new University of Miami Libraries Website Redesign Blog. As the name suggests, the Libraries are working on a redesign of our web presence, and we thought it would be useful to write up some of our experiences. Useful how? Well, we see it serving a few overlapping purposes:&lt;/p&gt;
 
 &lt;ul&gt;
